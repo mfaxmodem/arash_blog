@@ -1,0 +1,8 @@
+{
+  "typeCheckingMode": "basic",
+  "reportGeneralTypeIssues": "warning",
+  "reportOptionalMemberAccess": "warning",
+  "reportOptionalCall": "warning",
+  "reportCallIssue": "warning",
+  "reportAttributeAccessIssue": "warning"
+}
